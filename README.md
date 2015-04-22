@@ -1,11 +1,4 @@
-# HaxeFlixel Resources
-Tricks, tips and tutorials compiled about HaxeFlixel
-
-===========================================================
-
 ##Check out my [Wiki](https://github.com/diegomachado/HaxeFlixel-Resources/wiki)
-
-
 [HaxeFlixel](https://github.com/HaxeFlixel/flixel) was created by Alexander Hohlov, also known as Beeblerox who continues to be the project lead. The codebase started largely from a Haxe port of the AS3 version of Flixel written by Adam “Atomic” Saltsman and Richard Davey's Power Tools
 
 HaxeFlixel presents substantial enhancements from the original Flixel AS3 code:
